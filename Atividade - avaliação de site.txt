@@ -1,0 +1,7 @@
+Site selecionado: https://diariodonordeste.verdesmares.com.br/
+
+- O site carrega mais de uma pagina no mesmo lugar, gera algum travamento durante esses carregamentos desavisados
+- A primeira vez que abri o site veio varios pop ups na tela, tem alguma propagandas fixas
+- Demora um pouco para carrgar completamente ao acessar outras areas do site
+- alguma imagens maior que o necessário
+- não responsivo, o intens ficam muito pequenos nos celulares

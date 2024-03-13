@@ -1,0 +1,10 @@
+Requisitos funcionais
+	liguagem sem complexibilidade
+	consultar conteúdo pela barra de pesquisa
+	tutoriais com vídeos
+	imagens e audios explicativos
+
+requisitos não funcionais
+
+	acessibilidade
+	resposividade
